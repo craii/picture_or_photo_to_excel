@@ -1,5 +1,5 @@
 # - * - coding:utf-8 - * -
-#  作者：郑鸿灏
+#  作者：Elias Cheung
 #  编写时间：2022/1/20  14:42
 import math
 from xlwt import *
